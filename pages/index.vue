@@ -189,7 +189,7 @@ const isTypingBody = function initTypingBody() {
   .type('<span class="font-bold text-4xl md:text-5xl lg:text-6xl">ידע נלווה לחוק הטבעי האמיתי</span>')
   .type('<br>')
   .type('<br>')
-  .type('<a href="https://t.me/therealnaturallaw/1224" target="_blank" class="hover:text-primary-500">⚖️&nbsp; מהי האמת?</a>') 
+  .type('<a href="https://t.me/therealnaturallaw/233" target="_blank" class="hover:text-primary-500">⚖️&nbsp; מהי האמת?</a>') 
   .type('<br>')
   .type('<a href="https://t.me/therealnaturallaw/69" target="_blank" class="hover:text-primary-500">👑&nbsp; מהי העבודה הגדולה האחת?</a>') 
   .type('<br>')
