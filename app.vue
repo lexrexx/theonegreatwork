@@ -19,17 +19,17 @@ useHead({
     { name: 'theme-color', content: '#ffffff' },
     // Open Graph / Facebook
     { property: 'og:type', content: 'website' },
-    { property: 'og:url', content: 'https://lexxrex.github.io/togw/' },
+    { property: 'og:url', content: 'https://lexrexx.github.io/theonegreatwork/' },
     { property: 'og:title', content: 'העבודה הגדולה האחת' },
     { property: 'og:description', content: 'באתר ובקבוצת הלמידה של העבודה הגדולה האחת תוכלו לגלות את המפתח הראשי לכל המנעולים על כל הדלתות של כל הכלובים התודעתיים בהם רובנו עדיין נמצאים אך לא מודעים. מכם זה ידרוש זמן, תשומת לב, וכמובן רצון ללמוד איתנו את גוף הידע הנסתר אותו אנו לומדים ומקדמים בקבוצה.' },
-    { property: 'og:image', content: 'https://lexxrex.github.io/togw/img/togw-og-black-on-white.jpg' },
+    { property: 'og:image', content: 'https://lexrexx.github.io/theonegreatwork/img/togw-og-black-on-white.jpg' },
 
     // Twitter
     { property: 'twitter:card', content: 'summary_large_image' },
-    { property: 'twitter:url', content: 'https://lexxrex.github.io/togw/' },
+    { property: 'twitter:url', content: 'https://lexrexx.github.io/theonegreatwork/' },
     { property: 'twitter:title', content: 'העבודה הגדולה האחת' },
     { property: 'twitter:description', content: 'באתר ובקבוצת הלמידה של העבודה הגדולה האחת תוכלו לגלות את המפתח הראשי לכל המנעולים על כל הדלתות של כל הכלובים התודעתיים בהם רובנו עדיין נמצאים אך לא מודעים. מכם זה ידרוש זמן, תשומת לב, וכמובן רצון ללמוד איתנו את גוף הידע הנסתר אותו אנו לומדים ומקדמים בקבוצה.' },
-    { property: 'twitter:image', content: 'https://lexxrex.github.io/togw/img/togw-og-black-on-white.jpg' },
+    { property: 'twitter:image', content: 'https://lexrexx.github.io/theonegreatwork/img/togw-og-black-on-white.jpg' },
   ],
   link: [
     { rel: 'apple-touch-icon', sizes: '180x180', href: './apple-touch-icon.png' },
