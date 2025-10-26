@@ -1,5 +1,7 @@
 # The One Great Work
 
+Hello World!
+
 This repository is used to further __The One Great Work__ effort in awakening the masses and saving more lost souls, one soul at a time.
 
 Learn about your true power and how to use it. Join our Telegram group for more information - https://t.me/theonegreatwork
